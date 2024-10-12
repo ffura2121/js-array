@@ -19,6 +19,3 @@ const people = [
 
 console.log(findByName(people, "Jane")); 
 module.exports = findByName;
-}
-
-module.exports = findByName;
